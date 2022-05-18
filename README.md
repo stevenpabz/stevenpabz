@@ -1,7 +1,9 @@
-What's up man! 🐣
+## 🐣 What's up man! 
 
 There currently is nothing to see here but there might be some in the latter days.
-I'm currently taking Computer Science and that's it. Take care and chill.
+I'm currently taking Computer Science and that's it.
+
+Take care and chill.
 
 
 <!--
